@@ -1,0 +1,11 @@
+@use '../../styles/variables' as v;
+
+.App {
+	display: flex;
+	flex-direction: column;
+	background-color: #ECF0F1;
+	width: 70vw;
+	padding: 1rem;
+	gap: 10px;
+}
+
