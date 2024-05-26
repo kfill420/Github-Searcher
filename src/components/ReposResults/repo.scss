@@ -1,6 +1,9 @@
 .Repo {
   margin-bottom: 1rem;
+  max-width: 32%;
+  min-width: 200px;
   .h-100 {
+    width: 100px;
     height: 100%;
   }
 }
